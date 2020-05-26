@@ -1,3 +1,3 @@
 # hello-world
-Hello World Repos
-I am Pawala Janyan, a Liberian. 
+Hello World Repository.
+Hi. I'm Pawala Janyan, a Liberian and a beginner in coding. 
